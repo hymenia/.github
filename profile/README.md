@@ -4,6 +4,6 @@
 
 A place for your people.
 
-[Try it out](https://hymenia.dotun.cc)
+[Try it out](https://hymenia.com)
 
 > A part of [Succession](https://github.com/Succession-Org)
